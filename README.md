@@ -40,6 +40,6 @@ I love side projects, when i have an idea, I go to the end ! 💪
 ## Thanks for reading !
 If you want more i'm [here](https://www.instagram.com/alex.san.dre/) 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50"> and [here](https://open.spotify.com/user/jhOwc1k1o3ueh22mfopk4hp52)
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_whithout_text.svg" width="50"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="50"> 
 
 ### Bye 👋
