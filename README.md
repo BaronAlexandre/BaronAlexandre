@@ -2,7 +2,7 @@
 
 ### I'm Alexandre Baron. 
 I am a developper and currently working for [Hellowork](https://hellowork.com/) for the SEO team
-![HelloWork Logo](https://f.hellowork.com/hellowork-corp/2022/05/HelloWork_logo.png|=50x)
+<img src="https://f.hellowork.com/hellowork-corp/2022/05/HelloWork_logo.png" width="100">
 
 I love side projects, when i have an idea, I go to the end ! 💪
 
@@ -38,6 +38,8 @@ I love side projects, when i have an idea, I go to the end ! 💪
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## Thanks for reading !
-If you want more i'm [here](https://www.instagram.com/alex.san.dre/) ![here](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png =50x) and [here](https://open.spotify.com/user/jhOwc1k1o3ueh22mfopk4hp52) ![here](https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg =50x) 
+If you want more i'm [here](https://www.instagram.com/alex.san.dre/) 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50"> and [here](https://open.spotify.com/user/jhOwc1k1o3ueh22mfopk4hp52)
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_whithout_text.svg" width="50"> 
 
 ### Bye 👋
