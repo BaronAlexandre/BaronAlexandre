@@ -1,7 +1,7 @@
 ## Hi there👋
 
 ### I'm Alexandre Baron. 
-I am a developper and currently working for [Hellowork](https://hellowork.com/) for the SEO team ![HelloWork Logo](https://f.hellowork.com/hellowork-corp/2022/05/HelloWork_logo.png "HelloWork" =100x)
+I am a developper and currently working for [Hellowork](https://hellowork.com/) for the SEO team ![HelloWork Logo](https://f.hellowork.com/hellowork-corp/2022/05/HelloWork_logo.png =100x)
 
 I love side projects, when i have an idea, I go to the end ! 💪
 
